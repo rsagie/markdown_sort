@@ -1,8 +1,9 @@
 {
-  "name": "markdown_sort",
+  "name": "markdown-sort",
   "displayName": "Markdown sort",
   "description": "",
   "version": "0.0.1",
+  "repository": "https://github.com/rsagie/markdown_sort",
   "engines": {
     "vscode": "^1.71.0"
   },

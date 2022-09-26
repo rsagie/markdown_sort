@@ -10,15 +10,17 @@ This extension will sort a whole markdown file using 'level-1' headings as keys 
 ![Unsorted](images/unsorted.png)
 
 ### Select the text you want to sort 
-![Unsorted](images/select_text.png)
+![Select the text](images/select_text.png)
 
 ### Run the 'Markdown sort' command from the Command Palette (Ctrl+Shift+P)
-![Unsorted](images/run_cmd.png)
+![Run the command](images/run_cmd.png)
 
 ### After sorting
-![Unsorted](images/sorted.png)
+![sorted](images/sorted.png)
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+## Requirements
+
+- VS Code
 
 ## Release Notes
 
